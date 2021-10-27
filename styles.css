@@ -201,7 +201,7 @@ nav {
     padding-top: 20px;
 }
 
-li:hover{
+nav li:hover{
     background-color: black;
 }
 
@@ -220,6 +220,8 @@ footer {
     width: 15%;
     text-align: center;
     overflow: hidden;
+}.fb:hover{
+    background-color: black;
 }
 
 .instagram{
@@ -232,6 +234,8 @@ footer {
     width: 15%;
     text-align: center;
     overflow: hidden;
+}.instagram:hover{
+    background-color: black;
 }
 
 .twitter{
@@ -244,4 +248,10 @@ footer {
     width: 15%;
     text-align: center;
     overflow: hidden;
+}.twitter:hover{
+    background-color: black;
+}
+
+.brand-logo{
+    margin-left: 110px;
 }
