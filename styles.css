@@ -219,6 +219,7 @@ footer {
     border-radius: 100%;
     width: 15%;
     text-align: center;
+    overflow: hidden;
 }
 
 .instagram{
@@ -230,6 +231,7 @@ footer {
     border-radius: 100%;
     width: 15%;
     text-align: center;
+    overflow: hidden;
 }
 
 .twitter{
@@ -241,4 +243,5 @@ footer {
     border-radius: 100%;
     width: 15%;
     text-align: center;
+    overflow: hidden;
 }
