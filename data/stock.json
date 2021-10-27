@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Linea Doble",
+    "tipo": "apliques",
+    "desc": "Aplique en linea con 2 lamparas redondas",
+    "precio": 800,
+    "img": "./img/apliques/doble.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Linea Flex",
+    "tipo": "apliques",
+    "desc": "Aplique para pared en linea con 3 lamparas con estilo",
+    "precio": 1500,
+    "img": "./img/apliques/flex.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Linea triple",
+    "tipo": "apliques",
+    "desc": "Aplique para pared con 3 lamparas redondas",
+    "precio": 1200,
+    "img": "./img/apliques/triple.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Linea Cuadruple",
+    "tipo": "apliques",
+    "desc": "Aplique para pared con 4 lamparas redondas",
+    "precio": 1500,
+    "img": "./img/apliques/cuadruple.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 5,
+    "nombre": "Hilo Yute",
+    "tipo": "lamparas",
+    "desc": "Una lampara de Yute e hilo grande y muy bonita",
+    "precio": 2300,
+    "img": "./img/lamparas/hilo.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Flecos de Yute",
+    "tipo": "lamparas",
+    "desc": "Una lampara de Yute con flecos de hilo",
+    "precio": 2400,
+    "img": "./img/lamparas/flecos.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 7,
+    "nombre": "Charti Blanco",
+    "tipo": "lamparas",
+    "desc": "Lampara de charti blanco con relieve",
+    "precio": 3500,
+    "img": "./img/lamparas/charti.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 8,
+    "nombre": "Hierro cuadrado",
+    "tipo": "lamparas",
+    "desc": "Una lampara de hierro cuadrado esteticamente bonita",
+    "precio": 2800,
+    "img": "./img/lamparas/cuadrado.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 9,
+    "nombre": "Detector 3 en 1",
+    "tipo": "equipo",
+    "desc": "Un detector con 3 funciones en 1 solo elemento",
+    "precio": 1500,
+    "img": "./img/equipo/DETECTOR.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 10,
+    "nombre": "Soldador electrico",
+    "tipo": "equipo",
+    "desc": "Para realizar soldaduras electricas",
+    "precio": 1700,
+    "img": "./img/equipo/Soldador.jpg",
+    "cantidad": 1
+  }
+]
