@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "nombre": "Linea Flex",
+    "nombre": "Linea luces Flex",
     "tipo": "apliques",
     "desc": "Aplique para pared en linea con 3 lamparas con estilo",
     "precio": 1500,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "nombre": "Linea triple",
+    "nombre": "Linea luces triple",
     "tipo": "apliques",
     "desc": "Aplique para pared con 3 lamparas redondas",
     "precio": 1200,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "nombre": "Hilo Yute",
+    "nombre": "Hilo de Yute",
     "tipo": "lamparas",
     "desc": "Una lampara de Yute e hilo grande y muy bonita",
     "precio": 2300,
@@ -75,7 +75,7 @@
     "id": 9,
     "nombre": "Detector 3 en 1",
     "tipo": "equipo",
-    "desc": "Un detector con 3 funciones en 1 solo elemento",
+    "desc": "detector con 3 funciones en 1",
     "precio": 1500,
     "img": "./img/equipo/DETECTOR.jpg",
     "cantidad": 1
@@ -87,6 +87,24 @@
     "desc": "Para realizar soldaduras electricas",
     "precio": 1700,
     "img": "./img/equipo/Soldador.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 11,
+    "nombre": "Pinza Pelacable",
+    "tipo": "equipo",
+    "desc": "Para pelar cables electricos",
+    "precio": 100,
+    "img": "./img/equipo/PINZA-PELACABLES.png",
+    "cantidad": 1
+  },
+  {
+    "id": 12,
+    "nombre": "Tester electrico",
+    "tipo": "equipo",
+    "desc": "Para testear instalaciones",
+    "precio": 2300,
+    "img": "./img/equipo/tester.png",
     "cantidad": 1
   }
 ]
